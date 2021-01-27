@@ -1,5 +1,6 @@
 {
-  "name": "Tutorial1",
+  "tutorial_title": "Tutorial",
+  "tutorial_subtitle": "test me",
   "image_registry": "hub.docker.com",
   "image": "anetaii/anyhello",
   "image_tag": "v0.0.1",
