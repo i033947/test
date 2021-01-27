@@ -2,9 +2,9 @@
   "tutorial_title": "Kubernetes for dummies",
   "tutorial_subtitle": "",
   "image_registry": "hub.docker.com",
-  "image": "anetaii/anyhello",
+  "image": "anetaii/anyhello2",
   "image_tag": "v0.0.1",
   "description": "Get familiar with Kubernetes",
-  "link_to_Md": "https://github.com/aneta-ii/test/blob/develop/README.md",
+  "link_to_Md": "https://github.com/aneta-ii/test/blob/develop/kubernetes.md",
   "enabled": "true"
 }
