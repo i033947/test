@@ -1,6 +1,6 @@
 {
   "tutorial_title": "Kubernetes for dummies",
-  "tutorial_subtitle": ,
+  "tutorial_subtitle": "",
   "image_registry": "hub.docker.com",
   "image": "anetaii/anyhello",
   "image_tag": "v0.0.1",
