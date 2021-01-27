@@ -1,6 +1,6 @@
 {
-  "tutorial_title": "Get started with Landscaper",
-  "tutorial_subtitle": "Quick start",
+  "tutorial_title": "Landscaper tutorial",
+  "tutorial_subtitle": "Quick starter",
   "image_registry": "hub.docker.com",
   "image": "anetaii/anyhello",
   "image_tag": "v0.0.1",
