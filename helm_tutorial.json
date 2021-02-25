@@ -2,7 +2,7 @@
   "tutorial_title": "Learn Helm!",
   "tutorial_subtitle": "Build your first chart",
   "image_registry": "hub.docker.com",
-  "image": "anetaii/anyhello",
+  "image": "anetaii/anyhello:v0.0.1",
   "image_tag": "v0.0.1",
   "description": "Step by step tutorial how to build your first helm chart",
   "link_to_Md": "https://github.com/aneta-ii/test/blob/develop/README.md",
